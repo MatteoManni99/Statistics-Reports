@@ -1,4 +1,4 @@
-# Statistic Reports
+# Statistics Reports
 In this repository, I have posted three statistical essays. They pertain to machine learning, specifically:
   1) PCA and Regression
   2) Clustering
